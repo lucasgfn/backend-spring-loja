@@ -38,3 +38,6 @@
   5. **Execute a aplicação:**
      ```bash
      mvn spring-boot-run
+
+  6. **Excecute o Front-end**
+     - Instruções do front-end em [README](https://github.com/lucasgfn/loja-saines-front/blob/main/README.md)
